@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://corevalin-offer-se.vercel.app/sitemap.xml
